@@ -1,0 +1,101 @@
+/*** Home Page ***/
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+.brandName {
+    font-weight: bold;
+    color: #bd1b55;
+    text-align: center;
+    font-size: 40px;
+}
+
+.cent {
+    margin-left: 15px;
+}
+
+.nav {
+    justify-content: center;
+    display: flex;
+
+}
+
+.navlist{
+    list-style: none;
+    text-align: center;
+    padding: 0;
+    margin: 0;
+}
+
+li.navitems{
+    display: inline;
+    font-size: 20px;
+}
+
+.secondaryHeading {
+    color:purple;
+    text-align: center;
+    font-size: 30px;
+}
+
+.parag {
+    text-align: center;
+    font-size: 18 px;
+}
+
+.tertiaryHeading {
+    text-align: center;
+    color: goldenrod;
+    font-size: 20px;
+}
+
+.mainPageDiv {
+    display: flex;
+    justify-content: center;
+}
+
+ul.mainPageList {
+    list-style-position: inside;
+    padding: 0;
+    margin: 0;
+    font-size: 18px ;
+}
+
+li.mainPageList {
+    list-style-type: disc;
+    padding: 0;
+    margin: 0;
+}
+/*** Home Page ***/
+
+/**** Products ****/
+
+.img {
+    height: 300px;
+
+}
+.img-list {
+    justify-content: center;
+    display: flex;
+    font-size: 18 px;
+}
+/**** Products ****/
+
+/**** About Us ****/
+
+.secondaryHeading-au {
+    color:purple;
+    text-align: center;
+    font-size: 30px;
+}
+
+.parag-au {
+    text-align: left;
+    font-size: 18px;
+}
+
+.tertiaryHeading-au {
+    text-align: left;
+    color: goldenrod;
+}
+
+/**** About Us ****/
